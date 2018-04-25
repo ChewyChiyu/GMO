@@ -32,6 +32,11 @@
 	font-size: 40px;
 }
 
+.box h2{
+  color: white;
+  font-size: 30px;
+}
+
 .box li{
 	color: white;
   font-size: 24px;
